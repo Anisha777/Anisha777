@@ -3,18 +3,18 @@
 
 
 <h1 align="left">Hi 👋, I'm Anisha Dhakal.</h1>
-<h3 align="left">A passionate, honest and hardworking learner...</h3>
+<h3 align="left">A passionate, honest and hardworking learner.</h3>
 
 
-- 🔭 I’m currently working on **Machine Learning Project...**
+- 🔭 I’m currently working on **Machine Learning Project.**
 
-- 🌱 I’m currently learning **Python, Machine Learning and Mathematics...**
+- 🌱 I’m currently learning **Python, Machine Learning and Mathematics.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anisha777?tab=repositories](https://github.com/Anisha777?tab=repositories)
 
 - 📫 How to reach me **anisha777dhakal@gmail.com**
 
-- ⚡ Fun fact **I admire myself for my goods and messes...**
+- ⚡ Fun fact **I admire myself for my goods and messes.**
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
