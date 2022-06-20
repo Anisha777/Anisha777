@@ -2,7 +2,7 @@
 
 
 
-<h1 align="left">Hi 👋, I'm Anisha Dhakal...</h1>
+<h1 align="left">Hi 👋, I'm Anisha Dhakal.</h1>
 <h3 align="left">A passionate, honest and hardworking learner...</h3>
 
 
