@@ -1,6 +1,4 @@
-
-
-<p style="text-align:center;"><img src="https://user-images.githubusercontent.com/84864911/174634314-b08f561e-4746-4251-ab57-14e8a52ffb1b.gif" alt="Logo"></p>
+<img align="centre" alt="Coding" width="400" src="https://user-images.githubusercontent.com/84864911/174634314-b08f561e-4746-4251-ab57-14e8a52ffb1b.gif">
 
 <h1 align="center">Hi 👋, I'm Anisha Dhakal...</h1>
 <h3 align="center">A passionate, honest and hardworking learner...</h3>
