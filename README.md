@@ -1,4 +1,5 @@
-![ani-gif1](https://user-images.githubusercontent.com/75604769/174627005-33a23fba-976b-45b9-b095-4a13218b9a21.gif)
+![ani3](https://user-images.githubusercontent.com/75604769/174629112-0c83df8b-7822-4067-bb19-deef2a139da9.gif)
+
 
 <h1 align="center">Hi 👋, I'm Anisha Dhakal...</h1>
 <h3 align="center">A passionate, honest and hardworking learner...</h3>
