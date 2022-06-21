@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I admire myself for my goods and messes.**
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [VGG-Net Theory](https://anisha777.github.io/AI-BLOG/markdown/2022/03/10/VGGTheory.html)
+- [Some basic Git-bash commands](https://anisha777.github.io/AI-BLOG/programming/2022/06/21/My-First-Post.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
