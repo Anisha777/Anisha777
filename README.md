@@ -1,10 +1,11 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anisha777&label=Profile%20views&color=0e75b6&style=flat" alt="Anisha777" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/84864911/174634314-b08f561e-4746-4251-ab57-14e8a52ffb1b.gif">
 
 
 
 <h1 align="left">Hi 👋, I'm Anisha Dhakal.</h1>
 <h3 align="left">A passionate, honest and hardworking learner.</h3>
-
 
 - 🔭 I’m currently working on **Machine Learning Project.**
 
