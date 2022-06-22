@@ -18,6 +18,7 @@
 - ⚡ Fun fact **I admire myself for my goods and messes.**
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why python in Artificial Intelligence?](https://anisha777.github.io/AI-BLOG/programming/2022/06/22/My-Second-Post.html)
 - [Some basic Git-bash commands](https://anisha777.github.io/AI-BLOG/programming/2022/06/21/My-First-Post.html)
 <!-- BLOG-POST-LIST:END -->
 
