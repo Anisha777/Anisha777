@@ -124,7 +124,18 @@
 <span><b><center>Docker</center></b></span> <br/>
 <img height=75px src="https://img.icons8.com/color/344/docker.png"> 
 </td>
-    
+ 
+<td align="center" width="25%">
+<span><b><center>HTML</center></b></span> <br/>
+<img height=75px src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"> 
+</td>   
+</tr>
+ 
+<tr>
+<td align="center" width="25%">
+<span><b><center>CSS</center></b></span> <br/>
+<img height=75px src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png"> 
+</td>
 </tr>
 
 </tbody>
