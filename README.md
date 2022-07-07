@@ -18,9 +18,9 @@
 - ⚡ Fun fact **I admire myself for my goods and messes.**
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Basic of Python](https://anisha777.github.io/AI-BLOG/programming/2022/07/05/My-Third-Blog.html)
-- [Conditional Branching in Python](https://anisha777.github.io/AI-BLOG/programming/2022/07/05/My-Fourth-Blog.html)
-- [Loops in Python](https://anisha777.github.io/AI-BLOG/programming/2022/07/05/My-Fifth-Blog.html)
+- [Basic of Python](https://anisha777.github.io/AI-BLOG/programming/2022/07/06/My-Third-Blog.html)
+- [Conditional Branching in Python](https://anisha777.github.io/AI-BLOG/programming/2022/07/06/My-Fourth-Blog.html)
+- [Loops in Python](https://anisha777.github.io/AI-BLOG/programming/2022/07/06/My-Fifth-Blog.html)
 - [Why python in Artificial Intelligence?](https://anisha777.github.io/AI-BLOG/programming/2022/06/22/My-Second-Post.html)
 - [Some basic Git-bash commands](https://anisha777.github.io/AI-BLOG/programming/2022/06/21/My-First-Post.html)
 <!-- BLOG-POST-LIST:END -->
