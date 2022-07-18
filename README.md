@@ -20,9 +20,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Basic of Python](https://anisha777.github.io/AI-BLOG/programming/2022/07/17/My-Third-Blog.html)
 - [Functions in Python](https://anisha777.github.io/AI-BLOG/programming/2022/07/17/My-Sixth-Blog.html)
-- [Conditional Branching in Python](https://anisha777.github.io/AI-BLOG/programming/2022/07/17/My-Fourth-Blog.html)
 - [Loops in Python](https://anisha777.github.io/AI-BLOG/programming/2022/07/17/My-Fifth-Blog.html)
-- [Why python in Artificial Intelligence?](https://anisha777.github.io/AI-BLOG/programming/2022/06/22/My-Second-Post.html)
+- [Tuples in Python](https://anisha777.github.io/AI-BLOG/programming/2022/07/17/My-Seventh-Blog.html)
+- [Conditional Branching in Python](https://anisha777.github.io/AI-BLOG/programming/2022/07/17/My-Fourth-Blog.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
