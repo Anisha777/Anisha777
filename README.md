@@ -7,9 +7,9 @@
 <h1 align="left">Hi 👋, I'm Anisha Dhakal.</h1>
 <h3 align="left">A passionate, honest and hardworking learner.</h3>
 
-- 🔭 I’m currently working on **Machine Learning Project.**
+- 🔭 I’m currently working on Web Developement.
 
-- 🌱 I’m currently learning **Python, Machine Learning and Mathematics.**
+- 🌱 I’m currently learning Javascript.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anisha777?tab=repositories](https://github.com/Anisha777?tab=repositories)
 
