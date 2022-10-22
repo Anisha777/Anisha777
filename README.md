@@ -81,7 +81,7 @@
 
 <td align="center" width="25%">
 <span><b><center>Git</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+<img height=75px src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"> 
 </td>
  </tr>
     
