@@ -39,105 +39,52 @@
 <tbody align="center">
  <tr>
    
-<td align="center" width="25%">
-<span><b><center>Python</center></b></span><br/> 
-<img height=75px src="https://img.icons8.com/color/2x/python.png"> 
-</td>
+
 
    
 <td align="center" width="30%">
-<span><b><center>OpenCV</center></b></span><br/>  
+<span><b><center>HTML</center></b></span><br/>  
 <img height=75px src="https://b2eprogrammers.com//assets/coursesImages/img_20211224124507330614257htmllogo.png"> 
 </td>
 
-<td align="center" width="25%">
-<span><b><center>PyTorch</center></b></span><br/> 
-<img height=75px src="https://pytorch.org/assets/images/pytorch-logo.png"> 
-</td>
 
 <td align="center" width="25%">
-<span><b><center>Notebook</center></b></span><br/>  
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"> 
-</td>
-</tr>
-
-<tr> 
-<td align="center" width="25%">
-<span><b><center>Sklearn</center></b></span><br/> 
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"> 
-</td>
-
-<td align="center" width="25%">
-<span><b><center>NumPy</center></b></span> <br/>
-<img height=75px src="https://cdn.worldvectorlogo.com/logos/numpy.svg"> 
-</td>
-
-<td align="center" width="25%">
-<span><b><center>Pandas</center></b></span> <br/>
-<img height=75px src="https://cdn-icons-png.flaticon.com/512/6485/6485718.png"> 
-</td>
-
-<td align="center" width="25%">
-<span><b><center>Matplotlib</center></b></span> <br/>
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"/>                             
-</td>
-
-</tr>
-
-<tr>
-<td align="center" width="25%">
-<span><b><center>Tensorflow</center></b></span> <br/>
-<img height=75px src="https://miro.medium.com/max/957/0*69C0hxf9NluTCPVl.png">
+<span><b><center>CSS</center></b></span> <br/>
+<img height=75px src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
 </td> 
+   <td align="center" width="25%">
+<span><b><center>Tailwind</center></b></span> <br/>
+<img height=75px src="https://mwop.net/images/tailwindcss.svg"> 
+</td>
+ </tr>
+ <tr>
 
 <td align="center" width="25%">
-<span><b><center>Keras</center></b></span> <br/>
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"> 
+<span><b><center>JavaScript</center></b></span> <br/>
+<img height=75px src="https://www.ankitweblogic.com/javascript/js_img/javascript.png"> 
 </td>
+ 
+ 
+ <td align="center" width="25%">
+<span><b><center>Python</center></b></span><br/> 
+<img height=75px src="https://img.icons8.com/color/2x/python.png"> 
+</td>
+  
 
 <td align="center" width="25%">
-<span><b><center>MySQL</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/48/000000/mysql.png"/>
+<span><b><center>React</center></b></span> <br/>
+<img height=75px src="https://avatars.githubusercontent.com/u/6412038?s=280&v=4"/>
 </td>
+ </tr>
+ <tr>
 
-<td align="center" width="25%">
-<span><b><center>Linux</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/344/linux--v1.png"/>
-</td>
-
-</td>
-
-</tr>
-<tr>
 
 <td align="center" width="25%">
 <span><b><center>Git</center></b></span> <br/>
 <img height=75px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
+ </tr>
     
-<td align="center" width="25%">
-<span><b><center>AWS</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/344/amazon-web-services.png"> 
-</td>
-    
-<td align="center" width="25%">
-<span><b><center>Docker</center></b></span> <br/>
-<img height=75px src="https://img.icons8.com/color/344/docker.png"> 
-</td>
- 
-<td align="center" width="25%">
-<span><b><center>HTML</center></b></span> <br/>
-<img height=75px src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"> 
-</td>   
-</tr>
- 
-<tr>
-<td align="center" width="25%">
-<span><b><center>CSS</center></b></span> <br/>
-<img height=75px src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png"> 
-</td>
-</tr>
-
 </tbody>
 </table>
 
