@@ -47,7 +47,7 @@
    
 <td align="center" width="30%">
 <span><b><center>OpenCV</center></b></span><br/>  
-<img height=75px src="https://img.icons8.com/color/2x/opencv.png"> 
+<img height=75px src="https://b2eprogrammers.com//assets/coursesImages/img_20211224124507330614257htmllogo.png"> 
 </td>
 
 <td align="center" width="25%">
